@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+transformers
+faster-whisper
+torch
